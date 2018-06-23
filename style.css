@@ -1,0 +1,69 @@
+#menu-bar {
+    text-align: right;
+    font-family: Arial, sans-serif;
+    text-decoration: gray
+    
+}
+
+.menu-bar-link {
+    text-decoration: none;
+    margin: 0 10px 0 0;
+}
+
+#login-button{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: none;
+    background-color: #4285f4;
+    border-radius: 2px;
+    font-weight: bold;
+    outline: none;
+    padding: 4px 8px;
+    height: 20px;
+}
+
+#main {
+    margin-top: 150px;
+    text-align: center;
+}
+#boogle {
+    font-family: Futura;
+    font-size: 90px;
+}
+#b{
+    color: #4285f4;
+}
+#o1{
+    color: red;
+}
+#o2{
+    color: #fdbe00;
+}
+#g{
+    color:  #4285f4;
+}
+#l{
+    color:  #2daa50;
+}
+#e{
+    color: red;
+}
+#search-box {
+    margin: 20px auto;
+    width: 498px;
+    height: 44px;
+    box-shadow: 10px 5px 5px lightgrey;
+
+}
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #757575;
+    background-color:#f2f2f2;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    padding: 10px 15px;
+
+
+    }
+
